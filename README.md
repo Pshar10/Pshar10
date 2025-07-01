@@ -3,6 +3,8 @@
 AWS-Certified Developer | DevOps & Media Tech Enthusiast | Spatial Audio Wizard 🎧
 
 ---
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
 ## 🌟 About Me
 
@@ -16,8 +18,8 @@ AWS-Certified Developer | DevOps & Media Tech Enthusiast | Spatial Audio Wizard 
 
 ## 📊 Quick Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavsharma&theme=radical)](https://github.com/pranavsharma)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavsharma&show_icons=true&theme=radical)](https://github.com/pranavsharma)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pshar10&theme=radical)](https://github.com/Pshar10)
+
 
 ---
 
