@@ -52,17 +52,8 @@ Complete AWS CDK + Elastic Beanstalk + CodePipeline-powered ML deployment.
 
 ## 🧰 Skills & Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)  
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)  
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=matlab)  
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes)  
-![Terraform](https://img.shields.io/badge/Terraform-blue?style=flat-square&logo=terraform)  
-![Jenkins](https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=jenkins)  
-![ArgoCD](https://img.shields.io/badge/ArgoCD-red?style=flat-square&logo=argo)  
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=flat-square&logo=prometheus)  
-![Grafana](https://img.shields.io/badge/Grafana-orange?style=flat-square&logo=grafana)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=matlab) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-blue?style=flat-square&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=jenkins) ![ArgoCD](https://img.shields.io/badge/ArgoCD-red?style=flat-square&logo=argo) ![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-orange?style=flat-square&logo=grafana)
+
 
 ---
 
